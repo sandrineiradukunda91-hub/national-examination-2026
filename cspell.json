@@ -1,0 +1,12 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "words": [
+        "Axios",
+        "axios",
+        "Vite"
+    ],
+    "ignorePaths": [
+        "node_modules/**"
+    ]
+}
